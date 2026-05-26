@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/jcdiscdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   &nbsp;
-  <a href="mailto:TU_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:hola@jjsuscc.es"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;
   <a href="https://ko-fi.com/F1F359ANJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a>
 </p>
@@ -26,7 +26,7 @@
 ### 📌 Proyectos destacados
 
 <!-- Reemplaza REPO_NAME con el nombre real de tu repositorio -->
-[![Repo destacado](https://github-readme-stats.vercel.app/api/pin/?username=jc-discdev&repo=REPO_NAME&theme=dark)](https://github.com/jc-discdev/REPO_NAME)
+[![Repo destacado](https://github-readme-stats.vercel.app/api/pin/?username=jc-discdev&repo=MIauCloudWeave-Proxmox&theme=dark)](https://github.com/jc-discdev/REPO_NAME)
 
 ---
 
